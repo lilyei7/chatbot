@@ -1,0 +1,1277 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981632838@s.whatsapp.net',
+    fromMe: false,
+    id: 'E9F89DD249612993E510D88EC8185589',
+    participant: undefined
+  },
+  messageTimestamp: 1713917934,
+  pushName: 'Norma Ramos Rendon',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¿Me pueden dar información sobre las placas de mármol PVC 😃',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¿Me pueden dar información sobre las placas de mármol PVC 😃',
+  from: '5219981632838'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a62d009b-9b76-4cfa-a520-dc23a9afd7fe',
+  keyword: 'key_68039bb8-6b26-42bf-9ba7-90937b9b49ef',
+  answer: '🔰Placas de mármol PVC🔰\n' +
+    '‼️Remate $2,350‼️  Placa de 2.44x1.22 ⬇️\n' +
+    'Especificaciones :\n' +
+    '✅ 9 años de garantía\n' +
+    '✅ filtro al agua 💦\n' +
+    '✅ filtro a rayos Uv\n' +
+    '✅ mantendrá el color durante los 9 años de vida útil\n' +
+    '¿Cuantos metros cuadrados necesitas cubrir? 😃👍\n' +
+    'Estamos ubicados en Cancún Quintana Roo 📍\n' +
+    '✅ Todo el material lo tenemos para entrega inmediata y a domicilio, con pagos a contraentrega para la seguridad del cliente 🤝\n' +
+    'Igualmente te comparto fotos y el catálogo de los modelo que tenemos para entrega inmediata 👍',
+  options: {
+    media: 'https://i.ibb.co/k4C40C0/t.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8387a91c15307948572392e7e4d48335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b78287b2-2b7f-494e-b54b-cc00823c2e91',
+  keyword: 'ans_a62d009b-9b76-4cfa-a520-dc23a9afd7fe',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/y4WsYRK/t1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1cb8b903d2c1836cc29db9b15114d736'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2580019-2562-4e2a-8ad5-8f6902b25c5a',
+  keyword: 'ans_b78287b2-2b7f-494e-b54b-cc00823c2e91',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/Kr2twmD/t2.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a24fe9f725a6291d37c0f7e2e9259f64'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_754c6b14-3244-449c-a1fd-258fa0978c0b',
+  keyword: 'ans_d2580019-2562-4e2a-8ad5-8f6902b25c5a',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/SKtQn8t/t3.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '159ebdc119e17a8df528ac3f84a8773c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_df820d9b-5659-451d-a108-1dfafcd1fdb8',
+  keyword: 'ans_754c6b14-3244-449c-a1fd-258fa0978c0b',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/74T2SMb/Whats-App-Image-2024-04-19-at-5-47-32-PM-1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e32ff102d200510bb34987e7e7b7e44d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d4290dd-6b56-4ed6-952a-dec83bcd7bd1',
+  keyword: 'ans_df820d9b-5659-451d-a108-1dfafcd1fdb8',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/7CMVM5c/Whats-App-Image-2024-04-19-at-5-47-32-PM.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b7c9f6ee676ac4e5dd9f5fdaacf621a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981632838@s.whatsapp.net',
+    fromMe: false,
+    id: '02F9BF21723DCB4269F4F76DD3980B8E',
+    participant: undefined
+  },
+  messageTimestamp: 1713918061,
+  pushName: 'Norma Ramos Rendon',
+  broadcast: false,
+  message: Message {
+    conversation: '¿Me pueden dar información sobre el pasto sintético? 😃',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¿Me pueden dar información sobre el pasto sintético? 😃',
+  from: '5219981632838'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_3146285b-eef4-4581-b6ad-3a7bae129dff',
+  keyword: 'key_2883a689-037b-420f-87c2-2d1688a0352a',
+  answer: '🌱 Manejamos 2 tipos de pasto sintético:\n' +
+    'Modelo 1: Económico 8 mm de altura 💲235/m2\n' +
+    'Modelo 2: Premium 20 mm de altura 💲359/m2\n' +
+    'Ofrece una calidad superior y mayor durabilidad.\n' +
+    'Cuéntame... ⬇️\n' +
+    '¿Cuál de los modelos te interesa más? 🤔\n' +
+    '¿Cuántos metros cuadrados necesitas cubrir aproximadamente? 😃\n' +
+    'Con esta información, podré brindarte una mejor asesoría y un presupuesto más preciso. ¡Espero tus respuestas!\n' +
+    'Estamos ubicados en Cancún Quintana Roo 📍\n' +
+    '✅ Todo el material lo tenemos para entrega inmediata y a domicilio con pagos a contraentrega para la seguridad del cliente 🤝',
+  options: {
+    media: 'https://i.ibb.co/PgRhyxd/ps1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c6d27dd8df7de37260335d8a0a47a5a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_2f25f690-6465-4708-b1c2-973a5283a12f',
+  keyword: 'ans_3146285b-eef4-4581-b6ad-3a7bae129dff',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/ZYL02WK/ps.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0dbb45d223d91a4554b4a2065e21d144'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981632838@s.whatsapp.net',
+    fromMe: false,
+    id: '84D6FA302FE52D63ACCF6A2C5EE5FB13',
+    participant: undefined
+  },
+  messageTimestamp: 1713918174,
+  pushName: 'Norma Ramos Rendon',
+  broadcast: false,
+  message: Message {
+    conversation: '¿Me pueden dar información sobre el follaje Artificial? 😃',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¿Me pueden dar información sobre el follaje Artificial? 😃',
+  from: '5219981632838'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_e50b8296-2624-486f-b48a-06a195e6efaa',
+  keyword: 'key_288fdafe-cd74-49e5-adf2-fcc905d1a996',
+  answer: '‼️Promoción‼️ $550m2  🚚Entrega inmediata 🚚\n' +
+    '🌱modelo booxwood premium\n' +
+    '🌱  Cuenta con ⬇️\n' +
+    '✅ 9 años de garantía en exterior\n' +
+    '✅ filtro al agua 💦\n' +
+    '✅ filtro a rayos Uv\n' +
+    '✅ mantendrá el color durante los 9 años de vida útil\n' +
+    '¿Cuantos metros cuadrados necesitas? 😃👍\n' +
+    'Estamos ubicados en Cancún Quintana Roo 📍\n' +
+    '✅ Todo el material lo tenemos para entrega inmediata y a domicilio, con pagos a contraentrega para la seguridad del cliente 🤝',
+  options: {
+    media: 'https://i.ibb.co/JKpG6Rf/a.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f0f5965f0c34455e157a94c20d8a4cfe'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1460ecbc-86bb-470d-932f-7fc92a5b7f4f',
+  keyword: 'ans_e50b8296-2624-486f-b48a-06a195e6efaa',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/yggKB3r/c.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8f8ac8af93bd98dfeb29a0f08729f5a3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b984e97e-a676-4ed7-96d4-a141d1de8add',
+  keyword: 'ans_1460ecbc-86bb-470d-932f-7fc92a5b7f4f',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/K6pxsYf/b.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '65b7ed612b7ab7cb2754c60bf84b4986'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: 'F2B96AE93CCA6AFABBF7576BE82F329E',
+    participant: undefined
+  },
+  messageTimestamp: 1713918530,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Perdona',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Perdona',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: 'CEF448D104D9F937FA43A9EC293DA85C',
+    participant: undefined
+  },
+  messageTimestamp: 1713918538,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Trato de recuperar el servidor',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Trato de recuperar el servidor',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: 'A1F3F6495591B34C21ACD0EF72FA363C',
+    participant: undefined
+  },
+  messageTimestamp: 1713918544,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Me dice que hay sesión activida',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Me dice que hay sesión activida',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: '0485AB1F3E789169FAD67E74CC7A1511',
+    participant: undefined
+  },
+  messageTimestamp: 1713918562,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: '¿Me pueden dar información sobre las placas de mármol PVC? 😃',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¿Me pueden dar información sobre las placas de mármol PVC? 😃',
+  from: '5215647799751'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a62d009b-9b76-4cfa-a520-dc23a9afd7fe',
+  keyword: 'key_68039bb8-6b26-42bf-9ba7-90937b9b49ef',
+  answer: '🔰Placas de mármol PVC🔰\n' +
+    '‼️Remate $2,350‼️  Placa de 2.44x1.22 ⬇️\n' +
+    'Especificaciones :\n' +
+    '✅ 9 años de garantía\n' +
+    '✅ filtro al agua 💦\n' +
+    '✅ filtro a rayos Uv\n' +
+    '✅ mantendrá el color durante los 9 años de vida útil\n' +
+    '¿Cuantos metros cuadrados necesitas cubrir? 😃👍\n' +
+    'Estamos ubicados en Cancún Quintana Roo 📍\n' +
+    '✅ Todo el material lo tenemos para entrega inmediata y a domicilio, con pagos a contraentrega para la seguridad del cliente 🤝\n' +
+    'Igualmente te comparto fotos y el catálogo de los modelo que tenemos para entrega inmediata 👍',
+  options: {
+    media: 'https://i.ibb.co/k4C40C0/t.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8387a91c15307948572392e7e4d48335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b78287b2-2b7f-494e-b54b-cc00823c2e91',
+  keyword: 'ans_a62d009b-9b76-4cfa-a520-dc23a9afd7fe',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/y4WsYRK/t1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1cb8b903d2c1836cc29db9b15114d736'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2580019-2562-4e2a-8ad5-8f6902b25c5a',
+  keyword: 'ans_b78287b2-2b7f-494e-b54b-cc00823c2e91',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/Kr2twmD/t2.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a24fe9f725a6291d37c0f7e2e9259f64'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_754c6b14-3244-449c-a1fd-258fa0978c0b',
+  keyword: 'ans_d2580019-2562-4e2a-8ad5-8f6902b25c5a',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/SKtQn8t/t3.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '159ebdc119e17a8df528ac3f84a8773c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_df820d9b-5659-451d-a108-1dfafcd1fdb8',
+  keyword: 'ans_754c6b14-3244-449c-a1fd-258fa0978c0b',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/74T2SMb/Whats-App-Image-2024-04-19-at-5-47-32-PM-1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e32ff102d200510bb34987e7e7b7e44d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d4290dd-6b56-4ed6-952a-dec83bcd7bd1',
+  keyword: 'ans_df820d9b-5659-451d-a108-1dfafcd1fdb8',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/7CMVM5c/Whats-App-Image-2024-04-19-at-5-47-32-PM.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b7c9f6ee676ac4e5dd9f5fdaacf621a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: 'C5D28ED67840D7D88F9F9F03E422470E',
+    participant: undefined
+  },
+  messageTimestamp: 1713918572,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Mmm...',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mmm...',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: '52B8321A0DE7BE7D19B903114A593041',
+    participant: undefined
+  },
+  messageTimestamp: 1713918796,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Por el momento parece estar bien',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Por el momento parece estar bien',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: '9A9CD6700D6AFB3631F50E22DD3286A7',
+    participant: undefined
+  },
+  messageTimestamp: 1713918798,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dame un seh',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame un seh',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: 'A9EC415E4706814EB6E2D20A8712D685',
+    participant: undefined
+  },
+  messageTimestamp: 1713918799,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Seg',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Seg',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: '3DBCC03DC8A76133F275FD5C8B8B34C6',
+    participant: undefined
+  },
+  messageTimestamp: 1713920811,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Es lo que estoy viendo',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Es lo que estoy viendo',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: '0754EC524C015F2278F6FBF23ACE2AC0',
+    participant: undefined
+  },
+  messageTimestamp: 1713920834,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Sip voy ahorita esta activado de todas formas para no interrumpir tus actividades',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Sip voy ahorita esta activado de todas formas para no interrumpir tus actividades',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5215647799751@s.whatsapp.net',
+    fromMe: false,
+    id: '02014EDCAE51DA55A6173EA10B4BFE44',
+    participant: undefined
+  },
+  messageTimestamp: 1713920894,
+  pushName: '.',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dame un momento plis',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dame un momento plis',
+  from: '5215647799751'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982143657@s.whatsapp.net',
+    fromMe: false,
+    id: '0AF77CA115F21C6643D29FF123E19E58',
+    participant: undefined
+  },
+  messageTimestamp: 1713921085,
+  pushName: 'Jorge Orozco',
+  broadcast: false,
+  messageStubType: 2,
+  messageStubParameters: [ 'Message absent from node' ],
+  body: undefined,
+  from: '5219982143657'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982143657@s.whatsapp.net',
+    fromMe: false,
+    id: '0AF77CA115F21C6643D29FF123E19E58',
+    participant: undefined
+  },
+  messageTimestamp: 1713921086,
+  pushName: 'Jorge Orozco',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '¿Me pueden dar información sobre las placas de mármol PVC? 😃',
+      previewType: 0,
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '¿Me pueden dar información sobre las placas de mármol PVC? 😃',
+  from: '5219982143657'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_a62d009b-9b76-4cfa-a520-dc23a9afd7fe',
+  keyword: 'key_68039bb8-6b26-42bf-9ba7-90937b9b49ef',
+  answer: '🔰Placas de mármol PVC🔰\n' +
+    '‼️Remate $2,350‼️  Placa de 2.44x1.22 ⬇️\n' +
+    'Especificaciones :\n' +
+    '✅ 9 años de garantía\n' +
+    '✅ filtro al agua 💦\n' +
+    '✅ filtro a rayos Uv\n' +
+    '✅ mantendrá el color durante los 9 años de vida útil\n' +
+    '¿Cuantos metros cuadrados necesitas cubrir? 😃👍\n' +
+    'Estamos ubicados en Cancún Quintana Roo 📍\n' +
+    '✅ Todo el material lo tenemos para entrega inmediata y a domicilio, con pagos a contraentrega para la seguridad del cliente 🤝\n' +
+    'Igualmente te comparto fotos y el catálogo de los modelo que tenemos para entrega inmediata 👍',
+  options: {
+    media: 'https://i.ibb.co/k4C40C0/t.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [ [Object], [Object] ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8387a91c15307948572392e7e4d48335'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_b78287b2-2b7f-494e-b54b-cc00823c2e91',
+  keyword: 'ans_a62d009b-9b76-4cfa-a520-dc23a9afd7fe',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/y4WsYRK/t1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '1cb8b903d2c1836cc29db9b15114d736'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_d2580019-2562-4e2a-8ad5-8f6902b25c5a',
+  keyword: 'ans_b78287b2-2b7f-494e-b54b-cc00823c2e91',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/Kr2twmD/t2.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'a24fe9f725a6291d37c0f7e2e9259f64'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_754c6b14-3244-449c-a1fd-258fa0978c0b',
+  keyword: 'ans_d2580019-2562-4e2a-8ad5-8f6902b25c5a',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/SKtQn8t/t3.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '159ebdc119e17a8df528ac3f84a8773c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_df820d9b-5659-451d-a108-1dfafcd1fdb8',
+  keyword: 'ans_754c6b14-3244-449c-a1fd-258fa0978c0b',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/74T2SMb/Whats-App-Image-2024-04-19-at-5-47-32-PM-1.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e32ff102d200510bb34987e7e7b7e44d'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1d4290dd-6b56-4ed6-952a-dec83bcd7bd1',
+  keyword: 'ans_df820d9b-5659-451d-a108-1dfafcd1fdb8',
+  answer: ' ',
+  options: {
+    media: 'https://i.ibb.co/7CMVM5c/Whats-App-Image-2024-04-19-at-5-47-32-PM.jpg',
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b7c9f6ee676ac4e5dd9f5fdaacf621a8'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A716A5CDA45CBBC13AC',
+    participant: undefined
+  },
+  messageTimestamp: 1713921433,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'Qué precio tiene con instalación?',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Qué precio tiene con instalación?',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A25C7B7A6268489896D',
+    participant: undefined
+  },
+  messageTimestamp: 1713921496,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-f30aa958-d538-4ba5-9b9a-feb91043ac47?ccb=9-4&oh=01_Q5AaILJ8keFRaryEGXNyqgOVR25wBR8AM_wdhKNhZ1aBFntL&oe=664FB547&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'En ese espacio',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1600,
+      width: 1200,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m232/up-oil-image-f30aa958-d538-4ba5-9b9a-feb91043ac47?ccb=9-4&oh=01_Q5AaILJ8keFRaryEGXNyqgOVR25wBR8AM_wdhKNhZ1aBFntL&oe=664FB547&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 21067,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_media__66c21d9d-719c-4110-badc-18d5e7a59b0d',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3AA1BA662FEA61481C21',
+    participant: undefined
+  },
+  messageTimestamp: 1713921538,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Si',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A88C20DB91E030A4330',
+    participant: undefined
+  },
+  messageTimestamp: 1713921624,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'El piso no es plano, ya ustedes se encargarían del firme y todo?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'El piso no es plano, ya ustedes se encargarían del firme y todo?',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3A698F40CCC28884367C',
+    participant: undefined
+  },
+  messageTimestamp: 1713921668,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/25234507_1577806279742834_9034747228399807548_n.enc?ccb=11-4&oh=01_Q5AaIPXub-NZl6EsoiF6W-vKvN-CZLaLAdQ2q74lYbG4pQaO&oe=664FC97E&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 6,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/25234507_1577806279742834_9034747228399807548_n.enc?ccb=11-4&oh=01_Q5AaIPXub-NZl6EsoiF6W-vKvN-CZLaLAdQ2q74lYbG4pQaO&oe=664FC97E&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_voice_note__b3d6f69b-b9c2-4d24-a68d-d0c50c234a2a',
+  from: '5219989372807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A32BA39834DB53F0ED4',
+    participant: undefined
+  },
+  messageTimestamp: 1713921915,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Tendrá fotos de sus trabajos para mostrárselo a mi esposa ahorita que llegue?',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Tendrá fotos de sus trabajos para mostrárselo a mi esposa ahorita que llegue?',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A8B022049A7976C0B6D',
+    participant: undefined
+  },
+  messageTimestamp: 1713921916,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Porfa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Porfa',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC3495E9A706C6C6C9D',
+    participant: undefined
+  },
+  messageTimestamp: 1713921946,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Va, porfa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Va, porfa',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5C7FA049D2A1F17F12',
+    participant: undefined
+  },
+  messageTimestamp: 1713922065,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/22562134_412316015065554_5183246688401924612_n.enc?ccb=11-4&oh=01_Q5AaIOl2LPoMfYGqvHmJG6W5sNSg4dGa9LVzx0RQc7L0IB5j&oe=664FD8EC&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 75,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/22562134_412316015065554_5183246688401924612_n.enc?ccb=11-4&oh=01_Q5AaIOl2LPoMfYGqvHmJG6W5sNSg4dGa9LVzx0RQc7L0IB5j&oe=664FD8EC&_nc_sid=5e03e0&_nc_hot=1713922064',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_voice_note__f81dd5cc-baf8-4147-8772-b7dfba068091',
+  from: '5219989372807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1CA7BE8A140C9D3872',
+    participant: undefined
+  },
+  messageTimestamp: 1713922074,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Va que va',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Va que va',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5338B187A249FA85C0',
+    participant: undefined
+  },
+  messageTimestamp: 1713922077,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Muchas gracias',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Muchas gracias',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219981569528@s.whatsapp.net',
+    fromMe: false,
+    id: 'A2B6C8940EDCDC7FE280C1BC5ADF4BAA',
+    participant: undefined
+  },
+  messageTimestamp: 1713922154,
+  pushName: 'Remberto Lopez',
+  broadcast: false,
+  message: Message {
+    conversation: 'Cuánto sale la hoja',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Cuánto sale la hoja',
+  from: '5219981569528'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219982294576@s.whatsapp.net',
+    fromMe: false,
+    id: '3ABC17D9B6A79271501A',
+    participant: undefined
+  },
+  messageTimestamp: 1713922179,
+  pushName: 'Garza',
+  broadcast: false,
+  message: Message {
+    conversation: 'Gracias! Buena noche',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Gracias! Buena noche',
+  from: '5219982294576'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7C6C8D40361024A185',
+    participant: undefined
+  },
+  messageTimestamp: 1713922311,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [Array],
+      url: 'https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-da628308-8d70-491c-9c76-61b5764bec86?ccb=9-4&oh=01_Q5AaIIkJgsycWry05fAaQTJBQ-izou3uSs5KX5Ix26XXtuMK&oe=664FB79C&_nc_sid=000000&mms3=true',
+      mimetype: 'image/jpeg',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1512,
+      width: 828,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t62.7118-24/f1/m234/up-oil-image-da628308-8d70-491c-9c76-61b5764bec86?ccb=9-4&oh=01_Q5AaIIkJgsycWry05fAaQTJBQ-izou3uSs5KX5Ix26XXtuMK&oe=664FB79C&_nc_sid=000000',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      firstScanSidecar: [Uint8Array],
+      firstScanLength: 16387,
+      scansSidecar: [Uint8Array],
+      midQualityFileSha256: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_media__9f8fcaf6-72ef-44e9-a2c3-2c0b3e24e012',
+  from: '5219989372807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3A1D57025DDB001F8C59',
+    participant: undefined
+  },
+  messageTimestamp: 1713922370,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/55802808_963483978744002_4152828025914738319_n.enc?ccb=11-4&oh=01_Q5AaIDs94DXIHRS6e-9pYxJINmdq4UzF-QVY3syhhXzGAfMI&oe=664FB724&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 56,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/55802808_963483978744002_4152828025914738319_n.enc?ccb=11-4&oh=01_Q5AaIDs94DXIHRS6e-9pYxJINmdq4UzF-QVY3syhhXzGAfMI&oe=664FB724&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_voice_note__a17017d3-c0e5-4c7b-b0eb-e4707811ea1c',
+  from: '5219989372807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3AE9F6DD0E7605A93D49',
+    participant: undefined
+  },
+  messageTimestamp: 1713922476,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/32374316_1134121094398826_9157071133967540577_n.enc?ccb=11-4&oh=01_Q5AaIKHvEKIVeQ44BPMITurBN3jVSDBxxYpc4nQJZtehk9Ih&oe=664FC25A&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 2,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/32374316_1134121094398826_9157071133967540577_n.enc?ccb=11-4&oh=01_Q5AaIKHvEKIVeQ44BPMITurBN3jVSDBxxYpc4nQJZtehk9Ih&oe=664FC25A&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_voice_note__2b53dd8e-efe6-4a2d-8e8f-2d96ea64ac29',
+  from: '5219989372807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3A531775516EEC4CC292',
+    participant: undefined
+  },
+  messageTimestamp: 1713922480,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/31808457_1164213224500406_7911845696237331472_n.enc?ccb=11-4&oh=01_Q5AaIKGEGzRdzHcPp-Cc0lg5FVlR1LnsPxQCbHWBpnzU4q68&oe=664FEBA1&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 2,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/31808457_1164213224500406_7911845696237331472_n.enc?ccb=11-4&oh=01_Q5AaIKGEGzRdzHcPp-Cc0lg5FVlR1LnsPxQCbHWBpnzU4q68&oe=664FEBA1&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_voice_note__4209578f-fde8-4b3d-8ace-22c7182624e9',
+  from: '5219989372807'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5219989372807@s.whatsapp.net',
+    fromMe: false,
+    id: '3A384B8A9B3DFC3546FE',
+    participant: undefined
+  },
+  messageTimestamp: 1713922484,
+  pushName: 'VITE',
+  broadcast: false,
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/33571926_352621081141479_8070489468123762821_n.enc?ccb=11-4&oh=01_Q5AaIPt_HjZdJgWepLZWMMRgOuzsIHRJBMcZv25hqJNyEiKC&oe=664FBD04&_nc_sid=5e03e0&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 3,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/33571926_352621081141479_8070489468123762821_n.enc?ccb=11-4&oh=01_Q5AaIPt_HjZdJgWepLZWMMRgOuzsIHRJBMcZv25hqJNyEiKC&oe=664FBD04&_nc_sid=5e03e0',
+      mediaKeyTimestamp: [Long],
+      streamingSidecar: [Uint8Array],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  verifiedBizName: '',
+  body: '_event_voice_note__6b5b0618-3a50-4b40-86ff-5ae5bb94b792',
+  from: '5219989372807'
+}
